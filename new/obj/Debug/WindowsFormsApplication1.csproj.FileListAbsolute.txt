@@ -1,0 +1,7 @@
+E:\cx\new\bin\Debug\WindowsFormsApplication1.exe
+E:\cx\new\bin\Debug\WindowsFormsApplication1.pdb
+E:\cx\new\obj\Debug\WindowsFormsApplication1.exe
+E:\cx\new\obj\Debug\WindowsFormsApplication1.pdb
+E:\cx\new\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\cx\new\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\cx\new\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

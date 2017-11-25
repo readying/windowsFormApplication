@@ -1,0 +1,8 @@
+E:\cx\new\bin\Release\WindowsFormsApplication1.exe
+E:\cx\new\bin\Release\WindowsFormsApplication1.pdb
+E:\cx\new\obj\Release\WindowsFormsApplication1.Form1.resources
+E:\cx\new\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\cx\new\obj\Release\WindowsFormsApplication1.exe
+E:\cx\new\obj\Release\WindowsFormsApplication1.pdb
+E:\cx\new\obj\Release\Properties.Resources.resources
+E:\cx\new\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
